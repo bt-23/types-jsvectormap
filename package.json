@@ -31,10 +31,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/themustafaomar/jsvectormap.git"
+    "url": "git+https://github.com/bt-23/types-jsvectormap"
   },
   "bugs": {
-    "url": "https://github.com/themustafaomar/jsvectormap/issues"
+    "url": "https://github.com/bt-23/types-jsvectormap/issues"
   },
   "homepage": "https://jvm-docs.vercel.app",
   "license": "MIT"
