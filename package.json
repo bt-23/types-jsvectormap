@@ -1,7 +1,7 @@
 {
   "name": "@types/jsvectormap",
   "version": "1.7.0-alpha",
-  "description": "A lightweight Javascript library for creating interactive maps",
+  "description": "TypeScript definitions for jsvectormap",
   "main": "",
   "types": "index.d.ts",
   "exports": {
