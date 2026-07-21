@@ -1,0 +1,41 @@
+{
+  "name": "@types/jsvectormap",
+  "version": "1.7.0",
+  "description": "A lightweight Javascript library for creating interactive maps",
+  "main": "",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": {
+        "import": "./index.d.ts",
+        "require": "./index.d.ts"
+      }
+    },
+    "./package.json": "./package.json"
+  },
+  "author": {
+    "name": "one_222333",
+    "url": "https://github.com/bt-23"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "interactive",
+    "vector",
+    "map",
+    "svg"
+  ],
+  "files": [
+    "index.d.ts",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themustafaomar/jsvectormap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themustafaomar/jsvectormap/issues"
+  },
+  "homepage": "https://jvm-docs.vercel.app",
+  "license": "MIT"
+}
