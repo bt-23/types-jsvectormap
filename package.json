@@ -1,5 +1,5 @@
 {
-  "name": "@types/jsvectormap",
+  "name": "jsvectormap-types",
   "version": "1.7.0-alpha",
   "description": "TypeScript definitions for jsvectormap",
   "main": "",
